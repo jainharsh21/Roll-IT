@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Roll-IT/static/css/main.c87532db.chunk.css",
+    "main.js": "/Roll-IT/static/js/main.711c8be0.chunk.js",
+    "main.js.map": "/Roll-IT/static/js/main.711c8be0.chunk.js.map",
+    "runtime-main.js": "/Roll-IT/static/js/runtime-main.f500655a.js",
+    "runtime-main.js.map": "/Roll-IT/static/js/runtime-main.f500655a.js.map",
+    "static/js/2.ad652cfe.chunk.js": "/Roll-IT/static/js/2.ad652cfe.chunk.js",
+    "static/js/2.ad652cfe.chunk.js.map": "/Roll-IT/static/js/2.ad652cfe.chunk.js.map",
+    "index.html": "/Roll-IT/index.html",
+    "precache-manifest.fb0b35e779164f0b835adb10938ab7aa.js": "/Roll-IT/precache-manifest.fb0b35e779164f0b835adb10938ab7aa.js",
+    "service-worker.js": "/Roll-IT/service-worker.js",
+    "static/css/main.c87532db.chunk.css.map": "/Roll-IT/static/css/main.c87532db.chunk.css.map",
+    "static/js/2.ad652cfe.chunk.js.LICENSE.txt": "/Roll-IT/static/js/2.ad652cfe.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f500655a.js",
+    "static/js/2.ad652cfe.chunk.js",
+    "static/css/main.c87532db.chunk.css",
+    "static/js/main.711c8be0.chunk.js"
+  ]
+}
